@@ -154,7 +154,7 @@ Final-year academic project — a comprehensive window-based travel ticket booki
 - 🥇 **5-Star Coder** on HackerRank (Problem Solving)
 - 💡 Solved **200+** DSA problems on LeetCode & GeeksforGeeks
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** *(In Progress)*
-- 📊 **284 GitHub Contributions** in the last year across 30+ repositories
+- 📊 **350+ GitHub Contributions** in the last year across 30+ repositories
 
 ---
 
