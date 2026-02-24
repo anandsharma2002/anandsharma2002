@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** at [Programmers.io](https://programmers.io) with **1.2+ years** of hands-on experience building enterprise-grade web applications using the **Microsoft .NET ecosystem**. I specialize in crafting efficient **backend systems**, designing **scalable microservices**, and integrating **AI Agents** to automate complex workflows.
+I'm a **Software Engineer** at [Programmers.io](https://programmers.io) with **1.3+ years** of hands-on experience building enterprise-grade web applications using the **Microsoft .NET ecosystem**. I specialize in crafting efficient **backend systems**, designing **scalable microservices**, and integrating **AI Agents** to automate complex workflows.
 
 - 🏢 &nbsp; Currently working at **Programmers.io** as a Software Engineer
 - 🔭 &nbsp; Building **OmniHub** — an AI-powered all-in-one developer platform
